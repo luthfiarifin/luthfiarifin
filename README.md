@@ -20,7 +20,7 @@
 - 🔭 I’m currently internship on [happy5](https://happy5.co/)
 - 🌱 I’m currently learning Android & Backend development
 - 💬 Ask me about [anything](https://github.com/luthfiarifin/luthfiarifin/issues)
-- 📫 How to reach me: marifinluthfi@gmail.co
+- 📫 How to reach me: marifinluthfi@gmail.com
 
 ![luthfiarifin github stats](https://github-readme-stats-phi-blond.vercel.app/api?username=luthfiarifin&theme=dark&show_icons=true)
 ![luthfiarifin most used language](https://github-readme-stats-phi-blond.vercel.app/api/top-langs/?username=luthfiarifin&theme=dark&layout=compact)
