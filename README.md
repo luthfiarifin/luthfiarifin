@@ -15,8 +15,6 @@
 </a>
 </br></br>
 
-![](https://komarev.com/ghpvc/?username=luthfiarifin&style=flat-square)
-
 - 🔭 I’m currently internship on [happy5](https://happy5.co/)
 - 🌱 I’m currently learning Android & Backend development
 - 💬 Ask me about [anything](https://github.com/luthfiarifin/luthfiarifin/issues)
