@@ -15,8 +15,8 @@
 </a>
 </br></br>
 
-- 🔭 I’m currently internship on [happy5](https://happy5.co/)
-- 🌱 I’m currently learning Android & Backend development
+- 🔭 I’m currently working at [Happy5](https://happy5.co/) as Android Engineer
+- 🌱 I’m currently learning Android, Backend, Multi Platform Development
 - 💬 Ask me about [anything](https://github.com/luthfiarifin/luthfiarifin/issues)
 - 📫 How to reach me: marifinluthfi@gmail.com
 
