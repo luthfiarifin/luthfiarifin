@@ -20,7 +20,7 @@
 
 I'm a Software Engineer & Product Strategist with **5+ years** building scalable, mobile-first, full-stack products — now focused on **Applied AI**: harnessing LLMs, RAG, and Agentic Workflows to ship practical tools that solve real problems.
 
-- 🔭 **Founder** of [Abadikan](https://www.abadikan.com) & **Product Engineer** at [Tech in Asia](https://www.techinasia.com)
+- 🔭 **Founder** of [Abadikan](https://abadikan.id) & **Product Engineer** at [Tech in Asia](https://www.techinasia.com)
 - 🧠 Bridging the gap between **state-of-the-art AI research** and **everyday utility**
 - 🏆 **First-author IEEE** publication (ITIS 2025, *Best Presenter*) · **Top 5 Global** — TiDB Future App Hackathon 2024 (2,100+ participants, 80 countries)
 - 🎓 B.Sc. Information Systems, **BINUS University** — *3.89 GPA, Magna Cum Laude*
