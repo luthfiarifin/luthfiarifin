@@ -68,7 +68,7 @@ I'm a Software Engineer & Product Strategist with **5+ years** building scalable
 | 🏆 [**Hangout AI**](https://devpost.com/software/hangout-ai) *(Top 5 Global)* | AI travel planner across 500+ spots in JKT/SG/KL | Llama 3 · TiDB Vector · RAG · FastAPI |
 | 🎟️ [**Tikeetron**](https://devpost.com/software/tikeetron) *(Agentic + Web3)* | AI-first, fraud-proof NFT event marketplace on TRON | Solidity · ReAct Agent · Flutter · Next.js |
 | 📷 [**Localize AI**](https://devpost.com/software/localizeai) *(Multimodal)* | Find cafes by text or image, AI-powered reviews | CLIP · AWS Bedrock · Llama 3 · MongoDB Vector |
-| 🚗 **Car Retrieval System** | End-to-end vehicle retrieval vision pipeline | YOLOv12n · EfficientNet-B4 · CBAM · PyTorch |
+| 🚗 [**Car Retrieval System**](https://canva.link/tm49kcgz1goap0l) | End-to-end vehicle retrieval vision pipeline | YOLOv12n · EfficientNet-B4 · CBAM · PyTorch |
 
 ---
 
